@@ -1,7 +1,16 @@
 # Pipelined RISC-V CPU (RV32I)
 
-**Status:** 0% Complete 
+**Status:** 100% Complete 
 
-Current progress as of today. Still putting the modules together, and writing tests.
+Project is finished. All modules are implemented and testbenches are passing.
 
 ### Completed Modules:
+- `alu.v`
+- `regfile.v`
+- `imem.v`
+- `dmem.v`
+- `decoder.v`
+- `aludec.v`
+- `controller.v`
+- `riscv_top.v`
+- `tb_riscv_top.v`
